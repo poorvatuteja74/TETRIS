@@ -1,2 +1,1 @@
-# TETRIS
-TETRIS
+Tetris Game

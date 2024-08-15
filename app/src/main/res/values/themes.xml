@@ -1,0 +1,20 @@
+<!-- res/values/styles.xml -->
+
+<resources>
+
+    <!-- Day Theme -->
+    <style name="AppTheme.Day" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your day theme here -->
+        <item name="colorPrimary">@color/colorPrimaryDay</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkDay</item>
+        <item name="colorAccent">@color/colorAccentDay</item>
+    </style>
+
+
+    <!-- Define your color values for day and night themes -->
+    <color name="colorPrimaryDay">#3F51B5</color>
+    <color name="colorPrimaryDarkDay">#303F9F</color>
+    <color name="colorAccentDay">#FF4081</color>
+
+
+</resources>
